@@ -23,7 +23,7 @@ Add Agent4J to your project using Maven:
 Or Gradle:
 
 ```groovy
-implementation 'com.yourorg:agent4j:0.1.0'
+implementation 'org.agent4j:agent4j-core:1.0.0'
 ```
 
 ## Quick Start
